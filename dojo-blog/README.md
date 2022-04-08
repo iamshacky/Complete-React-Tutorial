@@ -1,5 +1,10 @@
+# Youtube video and notes about this lesson
+
+Before and after example to make a value reactive. Before = not reactive and after = reactive.
+https://youtu.be/4pO-HcG2igk?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&t=80
+
 # Getting Started with Create React App
-test
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
