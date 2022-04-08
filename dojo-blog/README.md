@@ -1,3 +1,5 @@
+# Make reactive using a hook called useState
+
 # Youtube video and notes about this Net Ninja lesson
 
 Before and after example to make a value reactive. Before = not reactive and after = reactive.
