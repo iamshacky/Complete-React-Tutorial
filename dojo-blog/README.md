@@ -1,4 +1,4 @@
-# Youtube video and notes about this lesson
+# Youtube video and notes about this Net Ninja lesson
 
 Before and after example to make a value reactive. Before = not reactive and after = reactive.
 https://youtu.be/4pO-HcG2igk?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&t=80
