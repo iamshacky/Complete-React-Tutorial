@@ -2,6 +2,7 @@
 # Click events - handleClick examples
 
 In this React tutorial we'll talk about events & how to react to them in our components - specifically, we'll look at click events.  
+  
 The lesson uses src/Home.js in the example.
 
 ### Video
