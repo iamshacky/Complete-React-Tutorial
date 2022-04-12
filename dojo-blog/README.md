@@ -1,3 +1,4 @@
+
 # Click events - handleClick examples
 
 The lesson uses src/Home.js in the example.  
