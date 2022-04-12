@@ -1,4 +1,12 @@
-# Complete-React-Tutorial
-All course files for the Complete React Tutorial on the Net Ninja YouTube channel.
+# useState to Make reactive
 
-To use, select the correct branch for each Lesson. E.g for lesson 5 code, select the lesson-5 branch from the drop-down.
+Make state reactive by using useState and destructuring. This example demonstrates that an onclick event doesn't work in React like it does in regular Javascript. Home.js is the file used in this lesson.
+  
+The lesson uses src/Home.js in the example.
+
+### Video
+
+Title: Full React Tutorial #8 - Using State (useState hook)  
+Author: Net Ninja  
+Video time: https://youtu.be/4pO-HcG2igk?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&t=90   
+Files used in lesson: Home.js
